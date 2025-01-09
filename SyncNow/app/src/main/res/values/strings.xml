@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SyncNow</string>
+    <string name="cadastro_titulo">Titulo</string>
+    <string name="cadastro_disciplina">Disciplina</string>
+    <string name="cadastro_descrição">Descrição</string>
+    <string name="mainButton_cadastrarMaterial">Cadastrar Material</string>
+    <string name="detalhesButton_voltar">Voltar</string>
+    <string name="tag1">Resumo</string>
+    <string name="tag2">Exercício</string>
+    <string name="tag3">Anotação</string>
+    <string name="tag4">Imagem</string>
+    <string-array name="disciplina_array">
+        <item>Disciplina 1</item>
+        <item>Disciplina 2</item>
+        <item>Disciplina 3</item>
+        <item>Disciplina 4</item>
+        <item>Disciplina 5</item>
+    </string-array>
+</resources>
